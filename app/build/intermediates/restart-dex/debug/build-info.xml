@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="164017127808678"
+    token="7180246919703270126" >
+
+    <task
+        name="javac"
+        duration="642" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="462" />
+    <task
+        name="verifier"
+        duration="217" />
+
+    <artifact
+        location="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="164017127808678" >
+        <artifact
+            location="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_cam2_confirm.xml",
+        "source": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\exploded-aar\\com.commonsware.cwac\\cam2\\0.6.6\\res\\menu\\cwac_cam2_confirm.xml"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\res\\merged\\debug\\menu\\video.xml",
+        "source": "C:\\Andorid Programs\\Camera1.70 - git\\app\\src\\main\\res\\menu\\video.xml"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Andorid Programs\\Camera1.70 - git\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\res\\merged\\debug\\menu\\audio.xml",
+        "source": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\src\\main\\res\\menu\\audio.xml"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_cam2_confirm.xml",
+        "source": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\exploded-aar\\com.commonsware.cwac\\cam2\\0.6.6\\res\\menu\\cwac_cam2_confirm.xml"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\res\\merged\\debug\\menu\\audio.xml",
+        "source": "C:\\Andorid Programs\\Camera1.70 - git\\app\\src\\main\\res\\menu\\audio.xml"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\res\\merged\\debug\\menu\\video.xml",
+        "source": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\src\\main\\res\\menu\\video.xml"
+    }
+]

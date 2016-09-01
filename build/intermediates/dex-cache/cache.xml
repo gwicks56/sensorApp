@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="40b346ffe77656b6e6783b7d68f1f453904093e1">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_67be6a0bc7402a9ebaa10ba705bcc9ffa4a428b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gwicks\.gradle\caches\modules-2\files-2.1\com.squareup.moshi\moshi\0.9.0\f066cb67e606de3e8ec92582a1b0ebae2b08fcc7\moshi-0.9.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f066cb67e606de3e8ec92582a1b0ebae2b08fcc7">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\moshi-0.9.0_669a40b0eb469cbc6a4c80ccc120ceeb271535fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_9971c63107def7cc20bec48306c8ff2c5a512fb3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_25c3106862b8a31bd9034f127c05cff2afdea1dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_73dbd727503ee2615067952c9fd9b3d3ee0f6fef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gwicks\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-2.4.0_841bae5b22b3cdb35441cbcbb2452f649334ebbf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gwicks\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.4.0_5ebcf7970fe251633819a278a038c02e1146e686\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_3317767282aa57a1ba8e4b4c89a432bf55f79629\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.commonsware.cwac\cam2\0.6.6\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4d0a7a6bc8019dd7829524f68f68a805b65883a9">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.commonsware.cwac-cam2-0.6.6_56851d815611c670a8f94bf97a9561de46e2a8fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gwicks\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.22\40fe82092e0ae3ca549b132a1e7e876807525176\aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.2.22_ba88ef73564fd1bc099c970f3ddde31da032e686\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4f6002218e7ef905cdd18672f746ddaa8deecf96">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b4297e054ca658b964623d6731bb4d3678ef8a05\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gwicks\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.22\c6789de00db9d1f93faec881fa0c1f5960fb8a15\aws-android-sdk-core-2.2.22.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.2.22_0276080660a898a3c1a359995dfeea7c456c2951\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_181753558b511d9f0790d13b8817b53011ae98bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.clans-fab-1.6.2_9aff4cbe72b1d0e2cc843744fbf9e2e621b44efb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_f9fc8ee9aa4561f089cc121be266f7573456f619\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_3fac713fa86c00310d22bc5d82b1ab234385793f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gwicks\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.22\a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549\aws-android-sdk-ddb-2.2.22.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.2.22_ae05190d8b33688882cddcd63e24b38b10d25e04\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gwicks\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_b2bcc438ce5da86f992645123f25c2d48c7bf8f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_f8ce0ce466e2ea0cd0fd3815d6a5dbc54db4e898\classes.dex" />
+    </item>
+    <item
+        jar="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\exploded-aar\com.commonsware.cwac\security\0.6.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787a5bf0f49428cd33fc671446961c6bb0f4b253">
+        <dex dex="C:\Andorid Programs\Camera1.67- Video Encryption\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.commonsware.cwac-security-0.6.3_0464052f91a7f76da7fb0a6eb8351a08e560c7c7\classes.dex" />
+    </item>
+
+</items>

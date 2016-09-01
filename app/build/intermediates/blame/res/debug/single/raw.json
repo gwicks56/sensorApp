@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sample_audio.mp3",
+        "source": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\src\\main\\res\\raw\\sample_audio.mp3"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sample_audio.mp3",
+        "source": "C:\\Andorid Programs\\Camera1.70 - git\\app\\src\\main\\res\\raw\\sample_audio.mp3"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\res\\merged\\debug\\raw\\small_video.mp4",
+        "source": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\src\\main\\res\\raw\\small_video.mp4"
+    },
+    {
+        "merged": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\res\\merged\\debug\\raw\\small_video.mp4",
+        "source": "C:\\Andorid Programs\\Camera1.70 - git\\app\\src\\main\\res\\raw\\small_video.mp4"
+    }
+]

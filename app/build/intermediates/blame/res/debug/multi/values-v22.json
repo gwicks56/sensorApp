@@ -1,0 +1,256 @@
+[
+    {
+        "outputFile": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\res\\merged\\debug\\values-v22\\values-v22.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\src\\main\\res\\values-v22\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 74,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 86,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 86,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1150
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1155,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.67- Video Encryption\\app\\src\\main\\res\\values-v22\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1147
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\res\\merged\\debug\\values-v22\\values-v22.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.70 - git\\app\\src\\main\\res\\values-v22\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 74,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 86,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 86,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1150
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.70 - git\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1155,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "C:\\Andorid Programs\\Camera1.70 - git\\app\\src\\main\\res\\values-v22\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1147
+                    }
+                }
+            }
+        ]
+    }
+]
